@@ -3,8 +3,12 @@ import Navbar from "./components/Navbar";
 function App() {
   return (
     <div>
-     <Navbar/>
-     <Home />
+      <Navbar/>
+      <Home />
+      <About />
+      <Skills />
+      <Work />
+      <Contact />
     </div>
   );
 }
