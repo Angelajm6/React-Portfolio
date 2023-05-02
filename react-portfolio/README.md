@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and deployed to GitHub pages.
 
-
 ## Table of Contents
+
 - [Description](#Description)
 - [Usage](#Usage)
 - [License](#License)
@@ -11,26 +11,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Sources](#Sources)
 - [Questions](#Questions)
 
-
 ## Usage
 
 The following image shows a mock-up of the website appearance and functionality:
 
-
-
-
 ## License
 
 MIT License
-
 
 ## Contributors
 
 N/A
 
 ## Sources
-
-
 
 ## Questions
 

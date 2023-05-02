@@ -9,13 +9,13 @@ const Work = () => {
     //setProject(data);
   
   return (
-    <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
+    <div name='work' className='w-full md:h-screen text-gray-300 bg-[#1f1f29]'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-[#52eedf]'>
             Work
           </p>
-          <p className='py-6'> Some of my recent work</p>
+          <p className='py-6'>Some of my recent work</p>
         </div>
 
 {/* container for projects */}
@@ -37,7 +37,10 @@ const Work = () => {
       <div className="pt-8 text-center ">
         {/* eslint-disable-next-line */}
         <a href={item.github} target="_blank">
-          <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+          <button
+            className="text-center rounded-lg px-4 py-3 m-2
+                       bg-white text-gray-700 font-bold text-lg"
+          >
             Code
           </button>
         </a>
