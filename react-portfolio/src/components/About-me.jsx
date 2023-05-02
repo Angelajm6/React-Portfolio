@@ -1,5 +1,5 @@
 //'rafce' to generate our functional component
-import React from 'react'
+import React from 'react';
 
 const AboutMe = () => {
   return (
@@ -15,7 +15,7 @@ const AboutMe = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Angela Jaume, nice to meet you.</p>
+              <p>Hi. I'm Angela Jaume, nice to meet you!</p>
             </div>
             <div>
               <p>I am creative, motivated and highly ambitious. 
@@ -28,4 +28,4 @@ const AboutMe = () => {
   );
 };
 
-export default AboutMe
+export default AboutMe;
