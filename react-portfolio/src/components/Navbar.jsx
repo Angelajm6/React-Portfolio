@@ -4,7 +4,6 @@ import {
   FaTimes,
   FaGithub,
   FaLinkedin,
-  FaLinkedinIn,
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
@@ -18,28 +17,28 @@ const Navbar = () => {
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#1f1f29] text-gray-300 cursor:pointer'>
      
       {/* menu */}
-      <ul className='hidden md:flex'>
-        <li>
+      <ul className='hidden md:flex text-[#52eedf]'>
+        <li className='hover:text-gray-300 hover:scale-150 duration-500'>
           <Link to='home' smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li>
+        <li className='hover:text-gray-300 hover:scale-150 duration-500'>
           <Link to='about' smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li>
+        <li className='hover:text-gray-300 hover:scale-150 duration-500'>
           <Link to='skills' smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li>
+        <li className='hover:text-gray-300 hover:scale-150 duration-500'>
           <Link to='work' smooth={true} duration={500}>
             Work
           </Link>
         </li>
-        <li>
+        <li className='hover:text-gray-300 hover:scale-150 duration-500'>
           <Link to='contact' smooth={true} duration={500}>
             Contact
           </Link>

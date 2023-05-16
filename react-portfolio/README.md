@@ -21,14 +21,11 @@ The following image shows a mock-up of the website appearance and functionality:
 
 <img width="1719" alt="RP-1" src="https://user-images.githubusercontent.com/109991922/235714920-df907cdd-02f0-4fb5-9f3a-8e379adb3058.png">
 
-
 <img width="1592" alt="RP-2" src="https://user-images.githubusercontent.com/109991922/235714888-9bacc5e4-f080-4b6a-9dfd-1384daab8dbc.png">
-
 
 <img width="1530" alt="RP-3" src="https://user-images.githubusercontent.com/109991922/235714852-3d6a806e-c855-4672-81ce-17b8fdfa0120.png">
 
 <img width="1563" alt="RP-4" src="https://user-images.githubusercontent.com/109991922/235714838-4ef33ff9-b638-4382-9784-2406d73ee3bf.png">
-
 
 ## License
 
@@ -37,4 +34,3 @@ MIT License
 ## Contributors
 
 N/A
-
