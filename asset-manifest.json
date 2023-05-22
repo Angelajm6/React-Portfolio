@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9867521b.css",
+    "main.js": "/static/js/main.c3c1d18b.js",
+    "static/media/travelHub.png": "/static/media/travelHub.d51e2973f3112ff84feb.png",
+    "static/media/HealthRecipeGuru.png": "/static/media/HealthRecipeGuru.03ad1567f9c8f29f9e9b.png",
+    "static/media/weatherapp.png": "/static/media/weatherapp.e1f8714885cfa03f4f08.png",
+    "static/media/calendar.png": "/static/media/calendar.13ed67519eb1f92d76e4.png",
+    "static/media/MY-EMOJI.png": "/static/media/MY-EMOJI.905ea413fdd898983745.png",
+    "static/media/MySQL.png": "/static/media/MySQL.f3fa17d387d6bb219d1e.png",
+    "static/media/React.png": "/static/media/React.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/CSS.png": "/static/media/CSS.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.9867521b.css.map": "/static/css/main.9867521b.css.map",
+    "main.c3c1d18b.js.map": "/static/js/main.c3c1d18b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9867521b.css",
+    "static/js/main.c3c1d18b.js"
+  ]
+}
