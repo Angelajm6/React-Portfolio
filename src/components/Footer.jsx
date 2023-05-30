@@ -1,7 +1,5 @@
 import React from 'react';
 import {
-    FaBars,
-    FaTimes,
     FaGithub,
     FaLinkedin,
   } from 'react-icons/fa';
@@ -19,10 +17,10 @@ const Footer = () => {
                 <a href='https://github.com/Angelajm6'>
                     <FaGithub size={30} />
                 </a>
-                <a href='angelajaume.m@gmail.com'>
+                <a href='mailto:angelajaume.m@gmail.com'>
                     <HiOutlineMail size={30} />
                 </a>
-                <a href='/'>
+                <a href=''>
                     <BsFillPersonLinesFill size={30} />
                 </a>
             </div>
