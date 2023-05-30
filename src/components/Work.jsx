@@ -26,21 +26,21 @@ const Work = () => {
   <div
     key={index}
     style={{ backgroundImage: `url(${item.image})` }}
-    className="shadow-lg shadow-[#484e54] group container rounded-md flex justify-center text-center items-center mx-auto content-div ">
+    className="shadow-lg shadow-[#444e56] group container rounded-md flex justify-center text-center items-center mx-auto content-div ">
     {/* Hover effect for images */}
-    <div className="opacity-100 group-hover:opacity-100">
+    <div className="opacity-0 group-hover:opacity-100">
       <div className="pt-8 text-center ">
         {/* eslint-disable-next-line */}
         <a href={item.github} target="_blank">
           <button
-            className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+            className="text-center rounded-lg px-4 py-3 m-2 bg-[#1f1f29] text-[#52eedf] font-bold text-lg hover:scale-110 duration-500">
             Code
           </button>
         </a>
         {/* eslint-disable-next-line */}
         <a href={item.live} target="_blank">
           <button
-            className="text-center rounded-lg px-4 py-3 m-2 bg-[#52eedf] text-gray-700 font-bold text-lg">
+            className="text-center rounded-lg px-4 py-3 m-2 bg-[#1f1f29] text-[#52eedf] font-bold text-lg hover:scale-110 duration-500">
             Live
           </button>
         </a>
