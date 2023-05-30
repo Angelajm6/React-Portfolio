@@ -1,5 +1,5 @@
 import React from 'react';
-import Emoji from '../assets/MY-EMOJI.png'
+import Emoji from '../assets/MY-EMOJI.png';
 
 const About = () => {
   return (
