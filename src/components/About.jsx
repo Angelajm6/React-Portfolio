@@ -26,7 +26,7 @@ const About = () => {
                 I love learning and connecting with people and I want to use technology to help make this world a better place for the future generations to come. Help me help you!</p>  
             </div>
             <div>
-              <img className='w-full hover:scale-150 duration-500' src={Emoji} alt="My personalized emoji icon" />
+              <img className='w-80 hover:scale-150 duration-500' src={Emoji} alt="My personalized emoji icon" />
             </div>
           </div>
       </div>

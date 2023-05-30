@@ -10,7 +10,7 @@ import {
 const Footer = () => {
     return (
         <div className ='bg-[#1f1f29] py-8'>
-            <div className ='text-[#52eedf] flex justify-center gap-6 my-4 fa-2x'>
+            <div className ='text-[#52eedf] flex justify-center gap-8 mb-8'>
                 <a href='https://www.linkedin.com/in/angela-jaume/'>
                     <FaLinkedin size={30} />
                 </a>
