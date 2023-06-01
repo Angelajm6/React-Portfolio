@@ -1,4 +1,6 @@
 import React from 'react';
+import resumeImg from '../assets/MyResume.png';
+
 import {
     FaGithub,
     FaLinkedin,
@@ -20,7 +22,7 @@ const Footer = () => {
                 <a href='mailto:angelajaume.m@gmail.com'>
                     <HiOutlineMail size={30} />
                 </a>
-                <a href=''>
+                <a href={resumeImg} download="MyResume.png">
                     <BsFillPersonLinesFill size={30} />
                 </a>
             </div>

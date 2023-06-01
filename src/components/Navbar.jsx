@@ -7,6 +7,7 @@ import {
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
+import resumeImg from '../assets/MyResume.png';
 import { Link } from 'react-scroll';
 
 const Navbar = () => {
@@ -119,7 +120,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href={resumeImg} download="MyResume.png"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
