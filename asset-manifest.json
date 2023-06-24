@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.896e8a40.css",
+    "main.js": "/React-Portfolio/static/js/main.cc80e1df.js",
+    "static/media/travelHub.png": "/React-Portfolio/static/media/travelHub.d51e2973f3112ff84feb.png",
+    "static/media/HealthRecipeGuru.png": "/React-Portfolio/static/media/HealthRecipeGuru.03ad1567f9c8f29f9e9b.png",
+    "static/media/weatherapp.png": "/React-Portfolio/static/media/weatherapp.e1f8714885cfa03f4f08.png",
+    "static/media/MyResume.png": "/React-Portfolio/static/media/MyResume.f6bc86785ce228aeb3ab.png",
+    "static/media/calendar.png": "/React-Portfolio/static/media/calendar.13ed67519eb1f92d76e4.png",
+    "static/media/MY-EMOJI.png": "/React-Portfolio/static/media/MY-EMOJI.905ea413fdd898983745.png",
+    "static/media/MySQL.png": "/React-Portfolio/static/media/MySQL.f3fa17d387d6bb219d1e.png",
+    "static/media/React.png": "/React-Portfolio/static/media/React.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/React-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/html.png": "/React-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/CSS.png": "/React-Portfolio/static/media/CSS.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/React-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.896e8a40.css.map": "/React-Portfolio/static/css/main.896e8a40.css.map",
+    "main.cc80e1df.js.map": "/React-Portfolio/static/js/main.cc80e1df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.896e8a40.css",
+    "static/js/main.cc80e1df.js"
+  ]
+}
