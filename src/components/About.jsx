@@ -23,7 +23,7 @@ const About = () => {
                 What fascinates me the most about programming is that it allows me to build anything my mind is able to imagine and make it become a reality. <br></br>
                 I recently completed a coding bootcamp where I gained proficiency in several highly sought-after programming languages, including Javascript, React, and Nodejs, among others. 
                 Through this program, I was able to work on real-world projects, which provided me with valuable hands-on experience.<br></br>
-                I love learning and connecting with people and I want to use technology to help make this world a better place for the future generations to come. Help me help you</p>  
+                I love learning and connecting with people and I want to use technology to help make this world a better place for the future generations to come. Help me help you!</p>  
             </div>
             <div>
               <img className='w-80 hover:scale-150 duration-500' src={Emoji} alt="My personalized emoji icon" />
